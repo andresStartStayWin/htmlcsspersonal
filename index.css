@@ -109,7 +109,7 @@ header a:hover{
 
 #coding .container{
     text-align: center;
-    padding: 200px 12px;
+    padding: 50px 12px;
 }
 
 #nuestros-proyectos{
@@ -283,8 +283,8 @@ footer .container{
         background-image: url("media/learncode.jpg");
         background-size: cover;
         background-position: center center;
-        height: 500px;
-        width: 400px;
+        height: 400px;
+        width: 300px;
     }
 
     #nuestros-proyectos .programas{
