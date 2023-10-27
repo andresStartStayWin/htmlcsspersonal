@@ -113,9 +113,16 @@ header a:hover{
 }
 
 #nuestros-proyectos{
+    display: flex;
+    flex-direction: row;
     background-color: rgb(30,30,30);
     color: white;
     text-align: center;
+}
+
+#nuetros-proyectos .programas {
+    display: flex;
+    flex-direction: row;
 }
 
 #nuestros-proyectos .container{
@@ -293,37 +300,12 @@ footer .container{
         width: 300px;
     }
 
-    #nuestros-proyectos .programas{
-        display: flexbox;
-        justify-content: center;
-    }
+    
 
-    #nuestros-proyectos p{
-        display: block;
-        font-size: 1.5em;
-        margin-top: 30px;
-        margin-bottom: 30px;
-    } */
 
-    #nuestros-proyectos h2{
-        font-size: 4em;
 
-    }
 
-    #nuestros-proyectos h3{
-        margin-top: 0;
-        font-size: 2em;
-        
-    }
-
-    #nuestros-proyectos .carta{
-        margin-top: 50px;
-        padding: 30px;
-    }
-
-    #nuestros-proyectos button{
-        margin-top: 30px;
-    }
+    
 
     #caracteristicas{
  
